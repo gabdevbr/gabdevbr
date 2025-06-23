@@ -115,18 +115,6 @@ Valorizo o trabalho colaborativo, o compartilhamento de conhecimento e a busca c
 - Desenvolvimento SaaS
 - Soluções Multi-banco de Dados
 
-## 📊 My Stats:
-
-<details>
-  <summary>Github Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabdevbr&show_icons=true&theme=dark" alt="Github Stats" />
-</details>
-
-<details>
-  <summary>Language Statistics (From Wakatime)</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gabdevbr&theme=dark" alt="Wakatime Stats" />
-</details>
-
 ## 🔄 Philosophy
 
 I believe that quality technology is built with good practices, collaboration, and continuous learning. I'm always open to new challenges and opportunities to add value and evolve as a software professional. If you want to exchange ideas or know more about my journey, get in touch!
