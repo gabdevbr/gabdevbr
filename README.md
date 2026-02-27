@@ -66,12 +66,6 @@ Today I design and implement AI agent architectures, automation pipelines, and s
 
 ---
 
-### 🎓 Education
-
-- **Postgraduate** — Software Architecture, Data Science & Cybersecurity (PUCPR)
-- **Bachelor** — Information Systems
-
----
 
 ### 🌍 Open Source
 
