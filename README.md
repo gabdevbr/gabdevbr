@@ -69,18 +69,7 @@ Today I design and implement AI agent architectures, automation pipelines, and s
 
 ### 🌍 Open Source
 
-<a href="https://github.com/gabdevbr/openclaw-skills-for-a-better-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabdevbr&repo=openclaw-skills-for-a-better-world&theme=dark" />
-</a>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabdevbr&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gabdevbr&theme=dark&hide_border=true" height="165" />
-</p>
+🤖 **[openclaw-skills-for-a-better-world](https://github.com/gabdevbr/openclaw-skills-for-a-better-world)** — Open-source AI agent skills that replace apps with conversations. Starting with a complete personal finance manager.
 
 ---
 
